@@ -1,0 +1,1 @@
+select codemp, codfil, codmat from cadmat where codemp='01' and codfil='01'
